@@ -1,0 +1,35 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "Ama Food House",
+      "location": "Lagos",
+      "image": "ama-food-house.jpg",
+      "menu": [
+        {
+          "name": "Jollof Rice",
+          "price": "₦1,500",
+          "image": "jollof-rice.jpg"
+        },
+        {
+          "name": "Suya",
+          "price": "₦2,000",
+          "image": "suya.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Buka Delights",
+      "location": "Abuja",
+      "image": "buka-delights.jpg",
+      "menu": [
+        {
+          "name": "Pounded Yam",
+          "price": "₦1,200",
+          "image": "pounded-yam.jpg"
+        }
+      ]
+    }
+  ]
+}
